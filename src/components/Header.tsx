@@ -42,7 +42,7 @@ const Header = () => {
                 whileHover={{ rotate: 360 }}
                 transition={{ duration: 0.6 }}
               >
-                <img src="/image/logo.jpg" alt="logo" className="w-12 h-12 rounded-full" />
+                <img src="./image/logo.jpg" alt="logo" className="w-12 h-12 rounded-full" />
               </motion.div>
               <div className="arabic-font">
                 <h1 className="text-xl font-bold text-primary" > كشري اشرف </h1>
