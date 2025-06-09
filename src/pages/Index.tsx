@@ -101,7 +101,7 @@ const Index = () => {
                 }}
                 transition={{ duration: 0.6 }}
               >
-                <img src="../public/image/logo.jpg" alt="logo" className=" rounded-full" />
+                <img src="./image/logo.jpg" alt="logo" className=" rounded-full" />
               </motion.div>
               <motion.h1
                 className="text-5xl md:text-7xl font-bold mb-4 arabic-font"
