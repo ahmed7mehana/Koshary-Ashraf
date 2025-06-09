@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="text-center md:text-right">
             <div className="flex items-center justify-center md:justify-start space-x-2 rtl:space-x-reverse mb-4">
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
-                <img src="../public/image/logo.jpg" alt="logo" className=" rounded-full" />
+                <img src="./image/logo.jpg" alt="logo" className=" rounded-full" />
               </div>
               <div className="arabic-font">
                 <h3 className="text-lg font-bold">كشري اشرف </h3>
