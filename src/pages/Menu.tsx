@@ -151,7 +151,7 @@ const Menu = () => {
             whileHover={{ rotate: 360, scale: 1.1 }}
             transition={{ duration: 0.6 }}
           >
-            <img src="../public/image/logo.jpg" alt="logo" className="w-12 h-12 rounded-full" />
+            <img src="./image/logo.jpg" alt="logo" className="w-12 h-12 rounded-full" />
           </motion.div>
           <motion.h1
             className="text-4xl font-bold text-gray-900 mb-4 arabic-font"
